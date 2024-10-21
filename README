@@ -1,0 +1,4 @@
+// Hello, this is my gradebook tracker. It can be used to keep track of students, 
+assignments, and grades in any given class. I couldn't quite figure out how to 
+code it with multiple classes, so everything ended up in the Gradebook class.
+The pretty formatting and validation was done entirely by chatGPT.
